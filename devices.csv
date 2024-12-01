@@ -1,0 +1,5 @@
+ip,username,password,enable_password
+192.168.220.11,admin,admin,admin
+192.168.220.21,admin,admin,admin
+192.168.220.31,admin,admin,admin
+192.168.220.21,admin,admin,admin
